@@ -31,6 +31,3 @@ To develop an interactive Power BI dashboard that analyzes call log data and pro
 * Compared incoming and outgoing calls across years.
 * Evaluated call distribution across regions.
 
-## Author
-
-**Sakshi Gokhale**

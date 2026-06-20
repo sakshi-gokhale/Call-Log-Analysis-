@@ -4,10 +4,6 @@
 
 Developed an interactive Power BI dashboard using a CSV dataset to analyze call logs and monitor communication performance. The dashboard provides insights into incoming, outgoing, connected, missed, rejected, and unattended calls through visual reports and KPI metrics.
 
-## Objective
-
-To develop an interactive Power BI dashboard that analyzes call log data and provides insights into call activity, employee performance, missed calls, connected calls, and communication trends, enabling better monitoring and decision-making.
-
 ## Features
 
 * Incoming and outgoing call analysis
